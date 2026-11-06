@@ -1,0 +1,17 @@
+{
+  "name": "Mabdaul qiroa 1 — lug‘at va testlar",
+  "short_name": "Mabdaul Qiroat",
+  "description": "Mabdaul qiroa 1-kitob: so‘zlar, iboralar, birlik-ko‘plik, takror va testlar",
+  "lang": "uz",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1F4D3A",
+  "theme_color": "#1F4D3A",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
